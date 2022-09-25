@@ -23,3 +23,5 @@ A partial list of where these datasets originate from.
 - `planets`: https://exoplanets.nasa.gov/exoplanet-catalog/
 
 - `taxis`: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+- `misc`: https://github.com/selva86/datasets
